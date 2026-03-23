@@ -1,0 +1,109 @@
+build/
+bin/
+out/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# =========================
+# CMake
+# =========================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+CTestTestfile.cmake
+Testing/
+
+# =========================
+# Premake
+# =========================
+premake5.lua.bak
+premake5.luac
+*.make
+*.make2
+
+# =========================
+# Visual Studio / MSVC
+# =========================
+.vs/
+*.vcxproj*
+*.vcproj*
+*.sln
+*.user
+*.userosscache
+*.suo
+*.opensdf
+*.sdf
+*.ipch
+*.aps
+*.pch
+*.pdb
+*.ilk
+
+# =========================
+# VS Code / JetBrains
+# =========================
+.vscode/
+.idea/
+cmake-build-*/
+
+# =========================
+# Object / binary files
+# =========================
+*.o
+*.obj
+*.lo
+*.slo
+
+# =========================
+# Libraries
+# =========================
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# =========================
+# Executables
+# =========================
+*.exe
+*.out
+*.app
+
+# =========================
+# Logs & temp files
+# =========================
+*.log
+*.tmp
+*.temp
+*.swp
+*~
+
+# =========================
+# Debug / profiling
+# =========================
+*.dSYM/
+*.stackdump
+
+# =========================
+# Coverage
+# =========================
+*.gcno
+*.gcda
+*.gcov
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Cache
+# =========================
+.cache/
