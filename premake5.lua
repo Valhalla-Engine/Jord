@@ -17,8 +17,8 @@ outputdir = "%{cfg.buildcfg}-%{cfg.system}-%{cfg.architecture}"
 
 
 -- Include Jord library and test projects
-include "Jord/premake5.lua"
-include "JordTests/premake5.lua"
+include "Jord"
+include "JordTests"
 
 -- -------------------------------
 -- GoogleTest project in the root
