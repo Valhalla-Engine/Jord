@@ -33,6 +33,7 @@ premake5.luac
 *.vcxproj*
 *.vcproj*
 *.sln
+*.slnx
 *.user
 *.userosscache
 *.suo
